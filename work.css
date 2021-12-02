@@ -1,0 +1,13 @@
+* {
+	font-size: 105%;
+	color: white;
+}
+body {
+	background-color: black;
+}
+.table-border {
+	border: solid white 1px;
+	border-collapse: collapse;
+	width: 1300px;
+	text-align: center;
+}
